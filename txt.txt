@@ -1,0 +1,80 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+    // var noteheaderinput = document.getElementById('tdheaderinput').value;
+    // var noteinput = document.getElementById('tdnoteinput').value;
+    
+    // var list = document.getElementById('todolist');
+    
+    // var listitem = document.createElement('li');
+    // listitem.classList.add("notecontent");
+    
+    // var tdheader = document.createElement('div');
+    // tdheader.classList.add("todocontentheader");
+    
+    // var tdheadertext = document.createElement('h3');
+    // tdheadertext.innerHTML = noteheaderinput;
+    
+    // var tdnote = document.createElement('div');
+    // tdnote.classList.add("todonote");
+    
+    // var tdtext = document.createElement('p');
+    // tdtext.classList.add('todotext');
+    // tdtext.innerHTML = noteinput;
+    // var deletex = document.createElement("div");
+    // deletex.classList.add('deletex');
+    
+    // deletex.innerHTML = '<i id="deletex" class="far fa-window-close deletex"></i>';
+    
+    // list.insertBefore(listitem, list.childNodes[0]);
+    // listitem.appendChild(tdheader);
+    // listitem.appendChild(tdnote);
+    // tdheader.appendChild(tdheadertext)
+    // tdheader.appendChild(deletex)
+    // tdnote.appendChild(tdtext);
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   // function removetodo(){
+    //     var item = this.parentNode.parentNode;
+    //     var parent = item.parentNode;
+    //     parent.removeChild(item);
+    // }
+    // document.querySelector(".deletex").addEventListener('click', function(){
+    // console.log("worked");
+    
+        
+    // })
